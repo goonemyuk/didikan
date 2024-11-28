@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://goonemyuk.github.io/didikan/sitemap.xml
+Sitemap: https://didikan.web.id/sitemap.xml
